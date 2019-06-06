@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "Allied Vision",
-        href: "http://zhengwuyang.com"
+        href: "http://www.alliedvision.com"
     },{
         title: "瑷荔德上海",
         href: "http://www.jianshu.com/u/e71990ada2fd"
