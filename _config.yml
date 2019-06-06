@@ -17,7 +17,7 @@ sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in b
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:     avtcn
 zhihu_username:     avtcn
 github_username:    avtcn
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: avtcn
+#disqus_username: avtcn
 
 # Gitalk
 gitalk:
