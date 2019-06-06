@@ -57,11 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+disqus_username: avtcn
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: fasle    #是否开启Gitalk评论
   clientID: 018f53331937452cc555                            #生成的clientID
   clientSecret: 283f1065f70a433b7a72fd6e76af44a9ca951c0d    #生成的clientSecret
   repo: avtcn.github.io    #仓库名称
