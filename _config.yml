@@ -3,7 +3,7 @@ title: Allied Vision 博客
 SEOTitle: AVTCN的博客 | AVTCN Tech Blog
 header-img: img/Camera_Range_Backwall_4c.png
 email: support@alliedvision.com
-description: "Every failure is leading towards success."
+description: "我们坚信知识就是力量并一直努力通过我们的技术和专业知识，为客户提供有价值的洞见。"
 keyword: "Allied Vision, China, AVT, AVTCN Support, AVTCN技术博客, Camera, Industry Camera, Machine Vision"
 url: "http://avtcn.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/avtcn/avtcn.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Allied Vision 凭借在机器视觉行业30年的专业知识和经验，精准聚焦于您的目标，让您时刻了解大局。"
 sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
