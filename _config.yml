@@ -19,11 +19,11 @@ sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: true
 # weibo_username:     avtcn
-zhihu_username:     avtcn
+#zhihu_username:     avtcn
 github_username:    avtcn
 facebook_username:  avtcn
-jianshu_username:   avtcn
-#twitter_username:   avtcn
+# jianshu_username:   avtcn
+# twitter_username:   avtcn
 
 
 
