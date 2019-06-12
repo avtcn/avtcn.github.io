@@ -114,6 +114,21 @@
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
 
+<!-- Instant Search Box: https://www.supertechcrew.com/instant-search-box-jekyll/ -->
+<script src="{{ "/js/jekyll-search.js " | prepend: site.baseurl }}"></script>
+<script type="text/javascript">
+  SimpleJekyllSearch.init({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    dataSource: '{{ site.baseurl }}/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}<\/a><\/li>',
+    noResultsText: 'No results found',
+    limit: 10,
+    fuzzy: true,
+  });
+</script>
+
+
 <!-- Service Worker -->
 {% if site.service-worker %}
 <script type="text/javascript">
