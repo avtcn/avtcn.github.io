@@ -12,7 +12,7 @@ github_repo: "https://github.com/avtcn/avtcn.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Allied Vision 凭借在机器视觉行业30年的专业知识和经验，精准聚焦于您的目标，让您时刻了解大局。"
-sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avt_logo_square.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
