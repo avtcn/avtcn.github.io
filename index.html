@@ -3,6 +3,13 @@ layout: page
 description: "Allied Vision最新产品介绍及技术应用说明"
 ---
 
+<div>
+    <div class="post-preview">
+        <input type="text" id="search-input" placeholder="Type to Search... " size=15>
+    </div>
+    <ul id="results-container"></ul>
+</div>
+
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
