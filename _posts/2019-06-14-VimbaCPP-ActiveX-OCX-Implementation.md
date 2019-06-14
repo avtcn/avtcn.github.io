@@ -32,10 +32,10 @@ tags:
 ## 实现效果
 此空间可以实时显示相机传来的图片并显示，如下图，FPS是每秒显示的图片数量。
 
-![](../resources/vimbacpp-mfc-activex-ocx-implementation/screenshot.png)  
+![](resources/vimbacpp-mfc-activex-ocx-implementation/screenshot.png)  
 
 动态运行效果图： 
 
-![](../resources/vimbacpp-mfc-activex-ocx-implementation/vimba-activex-ocx-for-CSharp.gif)
+![](resources/vimbacpp-mfc-activex-ocx-implementation/vimba-activex-ocx-for-CSharp.gif)
 
 
