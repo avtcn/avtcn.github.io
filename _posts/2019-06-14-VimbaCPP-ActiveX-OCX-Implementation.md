@@ -4,7 +4,7 @@ title:      Vimba C++ API 实现 MFC ActiveX OCX 控件并在 VB/C# 等应用程
 subtitle:   使用Vimba C++ API异步调用方法进行图像获取，并用于 ActiveX OCX 实现
 date:       2019-06-14
 author:     Joe Ge
-header-img: img/vimba-sdk-banner2.png
+header-img: resources/vimbacpp-mfc-activex-ocx-implementation/top-banner-vimba-cpp-activex.png
 catalog: true
 tags:
     - SDK
